@@ -1,6 +1,6 @@
 ## Olá, eu sou o Luiz Rodrigues! ⚡
 
-<img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Luizrodrlguesz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img src="read-me.png" style="100%" alt="banner-readme"/>
 
 
 - Estou atualmente trabalhando com desenvolvimento Front-end ...
