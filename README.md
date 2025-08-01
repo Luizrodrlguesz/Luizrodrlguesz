@@ -3,10 +3,11 @@
 <img src="read-me.png" style="100%" alt="banner-readme"/>
 
 
-- Estou atualmente trabalhando com desenvolvimento Front-end ...
-- React | PHP | Laravel ...
-- Procuro colaborar com projetos Client/Server side ...
-- Procuro com entusiasmo, por melhorias na área de dev em geral ...
+-  Desenvolvedor Júnior Front-end com foco em **React**, **Next.js**, **Node.js** e integração com **Laravel/PHP**
+-  Estudando constantemente e aplicando boas práticas com **HTML**, **CSS**, **JavaScript**, **SASS** e **Tailwind**
+-  Experiência com projetos reais, inclusive lidando com **sistemas legados**
+-  Interesse por todo o ecossistema de desenvolvimento — client-side e server-side
+-  Atualmente aprendendo mais sobre performance, UI/UX e boas práticas de código
 
 
 
