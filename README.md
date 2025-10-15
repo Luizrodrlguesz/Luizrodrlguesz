@@ -3,11 +3,17 @@
 <img src="read-me.png" style="100%" alt="banner-readme"/>
 
 
--  Desenvolvedor Júnior Front-end com foco em **React**, **Next.js**, **Node.js** e integração com **Laravel/PHP**
--  Estudando constantemente e aplicando boas práticas com **HTML**, **CSS**, **JavaScript**, **SASS** e **Tailwind**
--  Experiência com projetos reais, inclusive lidando com **sistemas legados**
--  Interesse por todo o ecossistema de desenvolvimento — client-side e server-side
--  Atualmente aprendendo mais sobre performance, UI/UX e boas práticas de código
+ - Desenvolvedor Júnior Front-end com foco em React e Next.js.
+
+ - Boa proficiência em JavaScript e Tailwind, aplicando boas práticas e padrões modernos de desenvolvimento
+
+ - Iniciando o desenvolvimento com TypeScript e Flutter, expandindo para o ecossistema web e mobile
+
+ - Experiência com projetos reais, incluindo manutenção e otimização de sistemas legados
+
+ - Interesse por todo o ecossistema de desenvolvimento — client-side e server-side
+
+ - Atualmente aprimorando conhecimentos em performance, UI/UX e boas práticas de código
 
 
 
@@ -38,13 +44,15 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
+
 
 
 ## GitHub Status
